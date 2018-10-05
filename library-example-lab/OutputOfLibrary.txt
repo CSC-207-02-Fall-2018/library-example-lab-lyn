@@ -1,0 +1,140 @@
+
+Listing of books in the library
+
+Title:  ED-MEDIA 2002 : World Conference on Educational Multimedia, Hypermedia & Telecommunications
+	Author:  Samuel A. Rebelsky and Philip Barker
+	ISBN:  14. 1-880094-45-2
+	Circulation Status:  book available on shelves
+	Call Number:  64.2 25e
+
+Title:  Experiments in Java
+	Author:  Samuel A. Rebelsky
+	ISBN:  0201612674
+	Circulation Status:  non-circulating reference book
+	Call Number:  64.2 R25ex
+	Collection:  Iowa Room
+
+Title:  Problems for Computer Solution using FORTRAN
+	Author:  Henry M. Walker
+	ISBN:  0-87626-654-5
+	Circulation Status:  book available on shelves
+	Call Number:  QA43.W34
+
+Title:  Introduction to Computing and Computer Science with Pascal
+	Author:  Henry M. Walker
+	ISBN:  0-316-91841-5
+	Circulation Status:  book available on shelves
+	Call Number:  QA76.6.W3275
+
+Title:  Problems for Computer Solution using BASIC
+	Author:  Henry M. Walker
+	ISBN:  0-87626-717-7
+	Circulation Status:  non-circulating reference book
+	Call Number:  QA76.73.B3W335
+	Collection:  Iowa Room
+
+Title:  Pascal:  Problem Solving and Structured Program Design
+	Author:  Henry M. Walker
+	ISBN:  0-316-91848-2
+	Circulation Status:  book available on shelves
+	Call Number:  QA76.73.P2W35
+
+Title:  Computer Science 2:  Principles of Software Engineering, Data Types, and Algorithms
+	Author:  Henry M. Walker
+	ISBN:  0-673-39829-3
+	Circulation Status:  book available on shelves
+	Call Number:  QA76.758.W35
+
+Title:  The Limits of Computing
+	Author:  Henry M. Walker
+	ISBN:  0-7637-2552-8
+	Circulation Status:  book available on shelves
+	Call Number:  QA76.W185
+
+Title:  The Tao of Computing
+	Author:  Henry M. Walker
+	ISBN:  0-86720-206-8
+	Circulation Status:  book available on shelves
+	Call Number:  QA76.W1855
+
+Title:  Algorithms for functional programming
+	Author:  John David Stone
+	ISBN:  in process
+	Circulation Status:  book available on shelves
+	Call Number:  forthcoming
+
+End of book listing
+
+Donald Duck cannot check out a reference book 
+
+Book 12345 not found -- checkout impossible
+
+reference book 64.2 R25ex could not have been checked out -- return impossible 
+
+
+Listing of books in the library
+
+Title:  ED-MEDIA 2002 : World Conference on Educational Multimedia, Hypermedia & Telecommunications
+	Author:  Samuel A. Rebelsky and Philip Barker
+	ISBN:  14. 1-880094-45-2
+	Circulation Status:  book checked out by Minnie Mouseand due back on April 1, 2012
+	Call Number:  64.2 25e
+
+Title:  Experiments in Java
+	Author:  Samuel A. Rebelsky
+	ISBN:  0201612674
+	Circulation Status:  non-circulating reference book
+	Call Number:  64.2 R25ex
+	Collection:  Iowa Room
+
+Title:  Problems for Computer Solution using FORTRAN
+	Author:  Henry M. Walker
+	ISBN:  0-87626-654-5
+	Circulation Status:  book checked out by Donald Duckand due back on March 1, 2012
+	Call Number:  QA43.W34
+
+Title:  Introduction to Computing and Computer Science with Pascal
+	Author:  Henry M. Walker
+	ISBN:  0-316-91841-5
+	Circulation Status:  book checked out by Goofyand due back on March 28, 2012
+	Call Number:  QA76.6.W3275
+
+Title:  Problems for Computer Solution using BASIC
+	Author:  Henry M. Walker
+	ISBN:  0-87626-717-7
+	Circulation Status:  non-circulating reference book
+	Call Number:  QA76.73.B3W335
+	Collection:  Iowa Room
+
+Title:  Pascal:  Problem Solving and Structured Program Design
+	Author:  Henry M. Walker
+	ISBN:  0-316-91848-2
+	Circulation Status:  book available on shelves
+	Call Number:  QA76.73.P2W35
+
+Title:  Computer Science 2:  Principles of Software Engineering, Data Types, and Algorithms
+	Author:  Henry M. Walker
+	ISBN:  0-673-39829-3
+	Circulation Status:  book available on shelves
+	Call Number:  QA76.758.W35
+
+Title:  The Limits of Computing
+	Author:  Henry M. Walker
+	ISBN:  0-7637-2552-8
+	Circulation Status:  book available on shelves
+	Call Number:  QA76.W185
+
+Title:  The Tao of Computing
+	Author:  Henry M. Walker
+	ISBN:  0-86720-206-8
+	Circulation Status:  book available on shelves
+	Call Number:  QA76.W1855
+
+Title:  Algorithms for functional programming
+	Author:  John David Stone
+	ISBN:  in process
+	Circulation Status:  book available on shelves
+	Call Number:  forthcoming
+
+End of book listing
+
